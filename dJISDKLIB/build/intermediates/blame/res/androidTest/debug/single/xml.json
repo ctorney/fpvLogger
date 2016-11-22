@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ctorney/workspace/fpvLogger/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml",
+        "source": "/home/ctorney/workspace/fpvLogger/dJISDKLIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml"
+    },
+    {
+        "merged": "/home/ctorney/workspace/com.dji.FPVDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml",
+        "source": "/home/ctorney/workspace/com.dji.FPVDemo/dJISDKLIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml"
+    }
+]
