@@ -2,214 +2,274 @@
 <items version="2" >
 
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_dd141766d68e9d3abd403523cc2c1865358eccdf.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/okio-1.7.0.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="84166575c904b332dd8280c50c25169d93c23183">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/okio-1.7.0_51fe533ff6ed3a52f532b58229342506ae1f2e1f.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/rxjava-computation-expressions-0.21.1.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="ba197d6d07e77220a7befed378c07a7a32293339">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/rxjava-computation-expressions-0.21.1_ef6ea97b1c77d2da4d416d6ba4116d413993a522.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/gson-2.6.2_f439b4e109044e6040f3d937e40f1250affe5837.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/sqlbrite-0.6.2.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="a7a49524d12985bb8e1ff4007a017c445e100890">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/sqlbrite-0.6.2_6687a834c63c5fe865ba2eb00fc4bdf552363321.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d2320f1727adbad0df1a339594b733581ff39e0c.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6bfd1698bda0ead1fd9fca57fda01625d15dc08b.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cc0f811449613a386e77655d810e96646497b653.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_f9176e1c4a19a21950a2401c4b0ecd21579d04c9.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/converter-gson-2.0.1.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="e77fa1373050465d1823e97db60b45a9648249ee">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_9eb9fa57f2b4d3d7f2ea295a74adf98256ee04c1.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/rxjava-1.1.2.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="6d502521ffaa8bbb37525d2aab8faee1eb9a812b">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/rxjava-1.1.2_533c911ebb29292c328855736e10120d9cb96ba1.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a41895ad706f44d5b4015dea0cb6f3bb8c4f26f4.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_96060da0714638349911b8976cb8c7ada3b64a8f.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_baed45fa271bc0a0aeef3ff4234d9ae1bd8d7883.jar" />
-    </item>
-    <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_30d66f45c209168feb8d9d90ce5abc6ca6e9829f.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f76b503061f811e179a5094936336aa04c40dd03.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/dji-sdk.jar"
+        is-multidex="false"
+        jar="/home/ctorney/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="31c35d214db604c2a21e832dfb1175e2148c06b8">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/dji-sdk_5a53db5dd93300948e49e9a64fed9dc965e40be9.jar" />
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c3f40b604eeadf62a8f909ce46703e01a9a0678a.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1221c430406d04c1d6bd4a4909ca7e016f404852.jar" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a41895ad706f44d5b4015dea0cb6f3bb8c4f26f4.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/rxandroid-1.1.0.jar"
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/retrofit-2.0.1.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="9daa9c676298ccd1494e800aa26be0bd7fc3102e">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/rxandroid-1.1.0_17ae271e3918fc7ba279792912622b4b0daa07be.jar" />
+        sha1="b55150f9b025eebdddb6426bb4e85e673af338a3">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/retrofit-2.0.1_30e7a7bd9488b25e0caca36ae899991092d996dd.jar" />
     </item>
     <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/rxjava-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4f11e8e7dd89f5f87e5d81000582eabb071da91">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/rxjava-1.1.2_533c911ebb29292c328855736e10120d9cb96ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_d807bb16302bf905595dca209513e11fbddfd680.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/dji_gson.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="4b5a3f4531fe7935aed0890b7002fe05e771807a">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/dji_gson_65c1421735a593e79a3dfe8838ecc5c5df2c1d42.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
         <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f3e37ccf6a887e097bd64d2220b96de3953273c5.jar" />
     </item>
     <item
+        is-multidex="false"
         jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/dji_eventbus.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="b0f42d162b1a5c79c4d66243591e701efd570aef">
+        sha1="91a5399115cedf41ebd53be7c96e424ac3aed1a8">
         <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/dji_eventbus_be2f62c87cc9ec3bb09cd6b94f34556232a411d2.jar" />
     </item>
     <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/sqlbrite-0.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="80411084d9962ab5b48b274bb4b49e063095535a">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/sqlbrite-0.6.2_6687a834c63c5fe865ba2eb00fc4bdf552363321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/gson-2.6.2_f439b4e109044e6040f3d937e40f1250affe5837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="58a92147e3365aa0039fc81a31b87f4957e6a555">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/okio-1.7.0_51fe533ff6ed3a52f532b58229342506ae1f2e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cc0f811449613a386e77655d810e96646497b653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_dd141766d68e9d3abd403523cc2c1865358eccdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_f9176e1c4a19a21950a2401c4b0ecd21579d04c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_30d66f45c209168feb8d9d90ce5abc6ca6e9829f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="eb9d82c286b764681b09f61e43999305b991a69b">
+        sha1="f669566d97545b914257e8dac4c87f287e0d5802">
         <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/fpvLogger-dJISDKLIB-unspecified_6f247891f6e11b570ef80066a6001a0ee3dd7d6c.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/retrofit-2.0.1.jar"
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="9e62585619dc9eda9786d2082efc2ed017977b76">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/retrofit-2.0.1_30e7a7bd9488b25e0caca36ae899991092d996dd.jar" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6bfd1698bda0ead1fd9fca57fda01625d15dc08b.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/dji_gson.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_59bfacfa02143a8831637e1e28fa8bf6a43cd73c.jar" />
+        sha1="729a9cf81838d286b6098dc9c33d264d5db48a26">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/dji_gson_65c1421735a593e79a3dfe8838ecc5c5df2c1d42.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/okhttp-3.2.0.jar"
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="6ae4217e8a2f7124a26369a562ccd6608821c241">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_38ef194d32f64f366fbf424af4c20919fda34dfb.jar" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d2320f1727adbad0df1a339594b733581ff39e0c.jar" />
     </item>
     <item
-        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_52d21b1cf4a5f5a17474048797a0b323d8e988d0.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_49fcbca2f9a7a916f6dcaea3a58eb8f1ad34e4b5.jar" />
     </item>
     <item
-        jar="/home/ctorney/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/rxandroid-1.1.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c3f40b604eeadf62a8f909ce46703e01a9a0678a.jar" />
+        sha1="92b4c46bf73b1caff27f0ad2b73fcd5730fa37de">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/rxandroid-1.1.0_17ae271e3918fc7ba279792912622b4b0daa07be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_baed45fa271bc0a0aeef3ff4234d9ae1bd8d7883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1998e4f447fbf0194f39a12f3010d1f4f598667f">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/rxjava-computation-expressions-0.21.1_ef6ea97b1c77d2da4d416d6ba4116d413993a522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="56caaeea09d3e406f6160972ff5d3e6c0e6f139b">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_9eb9fa57f2b4d3d7f2ea295a74adf98256ee04c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_52d21b1cf4a5f5a17474048797a0b323d8e988d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_59bfacfa02143a8831637e1e28fa8bf6a43cd73c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1221c430406d04c1d6bd4a4909ca7e016f404852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_96060da0714638349911b8976cb8c7ada3b64a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="03773badcb9e99ad699db657fa0e20cafbf774ef">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_38ef194d32f64f366fbf424af4c20919fda34dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ctorney/workspace/fpvLogger/app/build/intermediates/exploded-aar/fpvLogger/dJISDKLIB/unspecified/jars/libs/dji-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac5a1d20ad331f4f9e7087b546623b35ecae7690">
+        <dex dex="/home/ctorney/workspace/fpvLogger/app/build/intermediates/pre-dexed/debug/dji-sdk_5a53db5dd93300948e49e9a64fed9dc965e40be9.jar" />
     </item>
 
 </items>

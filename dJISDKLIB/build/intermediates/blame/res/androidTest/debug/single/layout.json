@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/home/ctorney/workspace/com.dji.FPVDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/dialog_login.xml",
-        "source": "/home/ctorney/workspace/com.dji.FPVDemo/dJISDKLIB/build/intermediates/bundles/debug/res/layout/dialog_login.xml"
-    },
-    {
-        "merged": "/home/ctorney/workspace/com.dji.FPVDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml",
-        "source": "/home/ctorney/workspace/com.dji.FPVDemo/dJISDKLIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml"
-    },
-    {
         "merged": "/home/ctorney/workspace/fpvLogger/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/dialog_login.xml",
         "source": "/home/ctorney/workspace/fpvLogger/dJISDKLIB/build/intermediates/bundles/debug/res/layout/dialog_login.xml"
     },

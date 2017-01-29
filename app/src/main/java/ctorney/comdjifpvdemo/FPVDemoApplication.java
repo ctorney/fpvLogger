@@ -7,7 +7,11 @@ import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
 
+import dji.common.battery.DJIBatteryState;
+import dji.common.camera.DJICameraSettingsDef;
 import dji.common.handheld.DJIHandheldButtonStatus;
+import dji.common.util.DJICommonCallbacks;
+import dji.sdk.battery.DJIBattery;
 import dji.sdk.camera.DJICamera;
 import dji.sdk.products.DJIAircraft;
 import dji.sdk.products.DJIHandHeld;
@@ -19,7 +23,7 @@ import dji.sdk.base.DJIBaseProduct.DJIBaseProductListener;
 import dji.sdk.base.DJIBaseProduct.DJIComponentKey;
 import dji.common.error.DJIError;
 import dji.common.error.DJISDKError;
-
+import dji.sdk.gimbal.DJIGimbal;
 public class FPVDemoApplication extends Application{
 
     public static final String FLAG_CONNECTION_CHANGE = "fpv_tutorial_connection_change";
@@ -27,6 +31,13 @@ public class FPVDemoApplication extends Application{
     private static DJIBaseProduct mProduct;
 
     private Handler mHandler;
+
+    private static int mBatteryPercent=0;
+
+    public static int getBatteryPercent() {
+        return mBatteryPercent;
+    }
+
 
     /**
      * This function is used to get the instance of DJIBaseProduct.
@@ -59,6 +70,13 @@ public class FPVDemoApplication extends Application{
         } else if (getProductInstance() instanceof DJIHandHeld) {
             camera = ((DJIHandHeld) getProductInstance()).getCamera();
         }
+        camera.setCameraMode(DJICameraSettingsDef.CameraMode.RecordVideo, new DJICommonCallbacks.DJICompletionCallback() {
+            @Override
+            public void onResult(DJIError error) {if (error == null) {} else {}}
+        });
+
+
+
 
         return camera;
     }
@@ -115,6 +133,19 @@ public class FPVDemoApplication extends Application{
             mProduct = newProduct;
             if(mProduct != null) {
                 mProduct.setDJIBaseProductListener(mDJIBaseProductListener);
+                try {
+                    mProduct.getBattery().setBatteryStateUpdateCallback(
+                            new DJIBattery.DJIBatteryStateUpdateCallback() {
+                                @Override
+                                public void onResult(DJIBatteryState djiBatteryState) {
+                                    mBatteryPercent = djiBatteryState.getBatteryEnergyRemainingPercent();
+                                }
+                            }
+                    );
+                } catch (Exception exception) {
+
+                }
+
             }
 
             notifyStatusChange();
